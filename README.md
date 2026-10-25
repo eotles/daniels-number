@@ -8,6 +8,10 @@ N = 3796246154436756844729658716967717237708627977410256704163 \cdot 2^{3200} + 
 
 **FactorDB:** [Entry 1100000012037487955](https://factordb.com/index.php?id=1100000012037487955), listed as a proven prime using a Pocklington N−1 test (base 3).
 
+## Dedication
+
+**Daniel's Number is named in honor of [Dr. Daniel James Comeaux, MD](https://npiprofile.com/npi/1801461199)**, a physician listed in the U.S. National Provider Identifier registry under anesthesiology. The name is a personal dedication, not an established mathematical naming convention or a claim that Dr. Comeaux participated in the computation.
+
 ## Primality proof
 
 Let `k = 3796246154436756844729658716967717237708627977410256704163` and `N = k * 2**3200 + 1`. Since `k` is odd, `0 < k < 2**3200`, and
