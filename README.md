@@ -4,9 +4,9 @@
 
 A 1,021-digit proven Proth prime, recorded on October 25, 2026.
 
-\[
-N = 3796246154436756844729658716967717237708627977410256704163 \cdot 2^{3200} + 1.
-\]
+$
+N = 3796246154436756844729658716967717237708627977410256704163 \cdot 2^{3200} + 1
+$
 
 **FactorDB:** [Entry 1100000012037487955](https://factordb.com/index.php?id=1100000012037487955), listed as a proven prime using a Pocklington N−1 test (base 3).
 
