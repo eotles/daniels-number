@@ -5,6 +5,8 @@ type: software
 authors:
   - family-names: "Ötleş"
     given-names: "Erkin"
+doi: 10.5281/zenodo.23649140
+version: 1.0.0
 repository-code: "https://github.com/eotles/daniels-number"
 url: "https://factordb.com/index.php?id=1100000012037487955"
 date-released: 2026-10-25
