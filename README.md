@@ -20,6 +20,16 @@ Let `k = 3796246154436756844729658716967717237708627977410256704163` and `N = k 
 
 Proth's theorem establishes that `N` is prime. Run `python3 verify.py` to check this certificate using Python's built-in arbitrary-precision integers.
 
+## Verify locally
+
+Requires Python 3, with no third-party dependencies:
+
+```bash
+python3 verify.py
+```
+
+The script checks the Proth conditions, verifies the modular-exponentiation witness, and compares the computed integer to `number.txt`. This is a deterministic proof of primality, not just a probable-prime test.
+
 ## Provenance and attribution
 
 The candidate was generated through a ChatGPT-assisted search on October 25, 2026, and the primality result was subsequently recorded on FactorDB. We call it **Daniel's Number**. The name is informal, not an official mathematical designation. This record does not establish that nobody previously computed the same prime. FactorDB's creation date is not proof of global priority.
@@ -32,4 +42,4 @@ The candidate was generated through a ChatGPT-assisted search on October 25, 202
 
 ## Citation
 
-Cite this repository's permanent commit URL or an archived release. For a DOI, archive a release with Zenodo.
+Use the repository's **Cite this repository** menu (powered by `CITATION.cff`), or cite a versioned Zenodo DOI after the first release is archived. A DOI is a persistent record of this documentation, not independent proof of historical discovery priority.
