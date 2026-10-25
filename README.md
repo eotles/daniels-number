@@ -1,5 +1,7 @@
 # Daniel's Number
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23649140.svg)](https://doi.org/10.5281/zenodo.23649140)
+
 A 1,021-digit proven Proth prime, recorded on October 25, 2026.
 
 \[
@@ -42,4 +44,4 @@ The candidate was generated through a ChatGPT-assisted search on October 25, 202
 
 ## Citation
 
-Use the repository's **Cite this repository** menu (powered by `CITATION.cff`), or cite a versioned Zenodo DOI after the first release is archived. A DOI is a persistent record of this documentation, not independent proof of historical discovery priority.
+**Archived release v1.0.0:** [DOI: 10.5281/zenodo.23649140](https://doi.org/10.5281/zenodo.23649140). You can also use GitHub's **Cite this repository** menu (powered by `CITATION.cff`). A DOI is a persistent record of this documentation, not independent proof of historical discovery priority.
