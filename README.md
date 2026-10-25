@@ -10,7 +10,7 @@ N = 3796246154436756844729658716967717237708627977410256704163 \cdot 2^{3200} + 
 
 ## Dedication
 
-**Daniel's Number is named in honor of [Dr. Daniel James Comeaux, MD](https://npiprofile.com/npi/1801461199)**, a physician listed in the U.S. National Provider Identifier registry under anesthesiology. The name is a personal dedication, not an established mathematical naming convention or a claim that Dr. Comeaux participated in the computation.
+**Daniel's Number is named in honor of [Dr. Daniel James Comeaux, MD](https://anesthesia.wisc.edu/education-training/residencies/recent-graduates/)**, a 2025 graduate of the University of Wisconsin anesthesiology residency, listed by the department as practicing at Advocate Good Shepherd in Illinois. The name is a personal dedication, not an established mathematical naming convention or a claim that Dr. Comeaux participated in the computation.
 
 ## Primality proof
 
